@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Footer = () =>{
+export const HighestScore = () =>{
     return(
         <div>
             <p>Lugares destacados del mes</p>

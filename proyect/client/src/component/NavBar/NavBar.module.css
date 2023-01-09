@@ -1,5 +1,5 @@
 .head {
-    background-color: yellow;
+    background-color: rgba(148, 148, 148, 0.535);
     display: flex;
     justify-content: space-around;
     height: 4rem;
