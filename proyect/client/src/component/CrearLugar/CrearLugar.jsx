@@ -18,24 +18,13 @@ export const CrearLugar = () => {
                     />
                 </label>
                 <label>
-                    life:
+                    Scort:
                     <input
                     type='number'
                     name='life'
                      
                     />
-                   
                 </label>            
-                <label>
-                    attack:
-                    <input
-                    type='number'
-                    name='attack'
-                    
-                    />
-                     
-                </label>
-
             </form>
         </div>
     )
