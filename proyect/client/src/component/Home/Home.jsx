@@ -19,7 +19,7 @@ export const Home = () =>{
             <Buscador/>
             <HighestScore/>
             <Publicity/>
-            <Link to={'/CrearLugar'}></Link>
+            <Link to={'/CrearLugar'}>CREAR LUGAR</Link>
             <Footer/>
         </div>
     )

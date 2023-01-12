@@ -2,7 +2,7 @@ import './App.css';
 import { BrowserRouter } from 'react-router-dom';
 import { Route } from 'react-router-dom';
 import { Home } from './component/Home/Home';
-import { CrearLugar } from '../CrearLugar/CrearLugar';
+import { CrearLugar } from './component/CrearLugar/CrearLugar';
 
 function App() {
   return (
