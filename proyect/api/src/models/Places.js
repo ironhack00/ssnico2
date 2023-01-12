@@ -11,6 +11,10 @@ module.exports = (sequelize) => {
     scort: {
       type: DataTypes.STRING,
       allowNull: false,
-    }, 
+    },
+    role:{
+      type: DataTypes.ENUM('active','inactive'),
+      defaultValue: 'inactive'
+  } 
   });
 };

@@ -7,14 +7,14 @@ export const CrearLugar = () => {
     return(
         <div>
             
-            <Link to={'/Home'}>Home</Link>
+            <Link to={'/'}>Home</Link>
             <form>
                 <label>
                     name:
                     <input
                     type='text'
                     name='name'
-                    
+
                     />
                 </label>
                 <label>
